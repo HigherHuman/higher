@@ -1,4 +1,5 @@
-sin+cos=1
+
 
 boost is the secret of my energy 
+
 
